@@ -3,8 +3,8 @@ This project examines carbon dioxide (CO2) emissions by fuel and sector in New Y
 
 This is a couple of t-tests designed to understand the significant difference in emission inputs between common fuels: 
 
-
 ![1](https://github.com/user-attachments/assets/d94dadda-981b-4c9f-8b29-12396a083344)
+
 
 Then, this is a visualization of my findings for fuel increase in the state of New York: 
 
