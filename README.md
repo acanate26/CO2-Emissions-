@@ -1,5 +1,11 @@
 # CO2 Emissions 
-This project examines carbon dioxide (CO2) emissions by fuel and sector in New York State for 2021, utilizing publicly available emissions data. The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Using this data, I also created a dashboard on Tableau https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1, so feel free to check it out!
+This project examines carbon dioxide (CO2) emissions by fuel and sector in New York State for 2021, utilizing publicly available emissions data. 
+
+
+Downloaded the dataset from Kaggle ➡️ See dataset https://www.kaggle.com/datasets/abdelrahman16/co2-emissions-usa/data
+
+
+The goal is to investigate which sectors and fuel types contribute most to emissions and conduct basic statistical comparisons across categories. Using this data, I also created a dashboard on Tableau https://public.tableau.com/app/profile/arielle.canate/viz/CO2Emissions_17502956933870/Dashboard1, so feel free to check it out!
 
 This is a couple of t-tests designed to understand the significant difference in emission inputs between common fuels: 
 
